@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Vector databases
+chroma_db/
+.chroma/
+
+# Downloads folder
+downloads/
+
+# Generated files
+*.pptx
+*.pdf
+*.xlsx
+*.csv
+
